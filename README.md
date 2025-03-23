@@ -4,6 +4,9 @@
 
 ---
 
+![Blog Screenshot](assets/blog.png)
+
+
 ## 🎯 **Features**
 ✅ **AI-powered blog generation** using LLaMA 2  
 ✅ **Research-based content** (Wikipedia & Google Search integration)  
