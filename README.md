@@ -4,7 +4,7 @@
 
 ---
 
-![Blog Screenshot](assets/blog.png)
+![Blog Screenshot](assets/testimonal.png)
 
 
 ## 🎯 **Features**
