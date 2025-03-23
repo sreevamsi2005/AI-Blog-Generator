@@ -34,9 +34,10 @@ models/llama-2-7b-chat.ggmlv3.q8_0.bin
 ```bash
 streamlit run app.py
 ```
-🎮 Usage
-1️⃣ Enter a blog topic in the input field
-2️⃣ Select a target audience (Researchers, Data Scientists, Common People)
-3️⃣ Choose the word limit
-4️⃣ Click "Generate" to create a structured blog
-5️⃣ View AI-generated blogs with formatted sections
+## 🎮 Usage
+1️⃣ **Enter a blog topic** in the input field  
+2️⃣ **Select a target audience** (Researchers, Data Scientists, Common People)  
+3️⃣ **Choose the word limit**  
+4️⃣ **Click "Generate"** to create a structured blog  
+5️⃣ **View AI-generated blogs** with **formatted sections**  
+
