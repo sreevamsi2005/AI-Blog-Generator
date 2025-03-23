@@ -1,2 +1,47 @@
-# AI-Blog-Generator
-AI Blog Generator using LLaMA 2 &amp; Streamlit A Streamlit-powered AI blog generator using LLaMA 2 for text generation. It creates structured, research-based blogs with sections like Introduction, Key Points, and Conclusion. 🚀
+# 📝 AI Blog Generator (LLaMA 2 + Streamlit)
+
+🚀 **AI-powered blog generator** that creates **structured, research-backed blog articles** using **LLaMA 2** and **Streamlit**. Supports **Wikipedia & Google Search research**, **custom word limits**, and **automated section formatting** (Introduction, Key Points, Conclusion).  
+
+---
+
+## 🎯 **Features**
+✅ **AI-powered blog generation** using LLaMA 2  
+✅ **Research-based content** (Wikipedia & Google Search integration)  
+✅ **Structured blog format** (Title, Introduction, Key Points, Conclusion)  
+✅ **Customizable word count & target audience**  
+✅ **Simple, interactive Streamlit UI**  
+
+---
+
+## 🛠️ **Installation & Setup**
+2️⃣ Install Dependencies
+bash
+Copy
+Edit
+pip install -r requirements.txt
+3️⃣ Set Up LLaMA 2 Model
+Ensure your LLaMA 2 model file (llama-2-7b-chat.ggmlv3.q8_0.bin) is in the correct directory:
+
+bash
+Copy
+Edit
+models/llama-2-7b-chat.ggmlv3.q8_0.bin
+4️⃣ Run the Streamlit App
+bash
+Copy
+Edit
+streamlit run app.py
+🎮 Usage
+1️⃣ Enter a blog topic in the input field
+2️⃣ Select a target audience (Researchers, Data Scientists, Common People)
+3️⃣ Choose the word limit
+4️⃣ Click "Generate" to create a structured blog
+5️⃣ View AI-generated blogs with formatted sections
+
+📸 Screenshots
+Home Page	Generated Blog Output
+
+### **1️⃣ Clone the Repository**
+```bash
+git clone https://github.com/yourusername/ai-blog-generator.git
+cd ai-blog-generator
