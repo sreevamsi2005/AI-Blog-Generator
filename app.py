@@ -3,7 +3,7 @@ from langchain.prompts import PromptTemplate
 from langchain_community.llms import CTransformers
 import os
 
-# Load LLaMA Model Path from Environment Variable (Optional)
+# Load LLaMA Model Path from Environment Variable
 MODEL_PATH = os.getenv("MODEL_PATH", "model/llama-2-7b-chat.ggmlv3.q8_0.bin")
 
 ## Function To Get Response from LLaMA 2 Model
