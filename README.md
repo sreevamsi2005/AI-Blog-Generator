@@ -29,6 +29,9 @@ cd ai-blog-generator
 pip install -r requirements.txt
 ```
 3️⃣ Set Up LLaMA 2 Model
+## 📥 Download LLaMA 2 Model and use locally ,
+You can download the **LLaMA 2 (7B Chat GGML)** model from [Hugging Face](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main).
+
 Ensure your LLaMA 2 model file (llama-2-7b-chat.ggmlv3.q8_0.bin) is in the correct directory:
 ```bash
 models/llama-2-7b-chat.ggmlv3.q8_0.bin
